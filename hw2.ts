@@ -39,7 +39,7 @@ if (marmalow == 'yes') {
     console.log(price);
 }
 console.log(price);
-    alert("Ice cream price = " + price);
+    alert(`Ice cream price = ${price}`);
 };
 
 let choseDetails = () : number => {
